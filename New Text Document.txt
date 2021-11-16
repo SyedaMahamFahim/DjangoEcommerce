@@ -1,0 +1,16 @@
+WistList -DONE
+Search Function -DONE
+EmailChimp Done - DONE
+Custom CSS done - DONE 
+Pignations -DONE 
+Recent View Product - DONE
+Top View Product -Done 
+
+
+
+
+1-Add automate cateorgy on hero section 
+2-Comments
+3-Logo 
+4-Link all products 
+5-Upload Products
